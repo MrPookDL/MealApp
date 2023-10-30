@@ -160,7 +160,7 @@ onMounted(() => {
   }, 700);
 });
 
-// QUand la page demarre
+// Quand la page demarre
 onIonViewDidEnter(() => {
   console.log(route.name);
   var determiner = "";
